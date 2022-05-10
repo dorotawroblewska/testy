@@ -1,0 +1,56 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:pj="http://base.prisjakt.com/ns/1.0" xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+    <title>Test Prisjakt feed</title>
+    <link>http://www.prisjakt.nu</link>
+    <description>Prisjakt data feed</description>
+	<entry>
+		<id>0281756430-147-102</id>
+		<pj:title>Prisjakt Fashion - Sports Jacket</pj:title>
+		<pj:link>https://www.example-store.com/products/prisjakt-fashion-sports-jacket#147-102</pj:link>
+		<pj:availability>in_stock</pj:availability>
+		<pj:price>1599 SEK</pj:price>
+		<g:condition>new</g:condition>
+		<g:product_type>TØJ / JAKKER / VINTERJAKKER / SPORTS JACKET HERREJAKKE</g:product_type>
+		<pj:image_link>https://www.example-store.com/products/prisjakt-fashion-sports-147-102.jgg</pj:image_link>
+		<pj:sale_price>1299 SEK</pj:sale_price>
+		<g:google_product_category>Apparel and Accessories > Clothing > Outerwear > Coats and Jackets</g:google_product_category>
+		<g:gtin>7040055968354</g:gtin>
+		<pj:mpn>0281756430-147-102</pj:mpn>
+		<pj:pre_order_date/>
+		<pj:sale_price_effective_date/>
+		<brand>Prisjakt Fashion</brand>
+		<color>Black</color>
+		<gender>Male</gender>
+		<material/>
+		<pattern/>
+		<size>M</size>
+		<size_system>EU</size_system>
+		<g:item_group_id>0281734570</g:item_group_id>
+		<pj:shipping>
+			<pj:country>SE</pj:country>
+			<pj:region/>
+			<pj:service>DHL</pj:service>
+			<pj:price>0 SEK</pj:price>
+		</pj:shipping>
+		<g:shipping>
+			<g:country>SE</g:country>
+			<g:region/>
+			<g:service>Postal</g:service>
+			<g:price>10 SEK</g:price>
+		</g:shipping>
+		<pj:prisjakt_id>123_321</pj:prisjakt_id>
+		<pj:promotion>
+			<pj:promotion_name/>
+			<pj:promotion_price/>
+		</pj:promotion>
+		<pj:marketplace_retailer/>
+		<pj:member_price>20 SEK</pj:member_price>
+		<pj:product_id>3737733</pj:product_id>
+		<age_group>adult</age_group>
+		<adult>no</adult>
+		<is_bundle/>
+	</entry>
+</channel>
+</rss>
