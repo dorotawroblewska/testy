@@ -2,9 +2,9 @@
 <rss 
 xmlns:pj="http://base.prisjakt.nu/ns/1.0" version="2.0">
   <channel>
-    <title>Topformula SV Google Shopping feed</title>
-    <link>http://www.topformula.se</link>
-    <description>Google Shopping data feed</description>
+    <title>Exemplary Prisjakt feed</title>
+    <link>http://www.prisjakt.nu</link>
+    <description>Prisjakt exemplary data feed</description>
     <item>
       <pj:id>111805NKPG</pj:id>
       <pj:gtin>7350023030601</pj:gtin>
