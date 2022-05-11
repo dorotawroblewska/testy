@@ -1,52 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss 
-xmlns:pj="http://base.prisjakt.nu/ns/1.0" version="2.0"
-xmlns:g="http://base.google.com/ns/1.0" version="2.0">
-  <channel>
-    <title>Exemplary Prisjakt feed</title>
-    <link>http://www.prisjakt.nu</link>
-    <description>Prisjakt exemplary data feed</description>
-    <item>
-      <pj:id>111805NKPG</pj:id>
-      <pj:gtin>7350023030601</pj:gtin>
-      <pj:title>Elexir Pharma | Hair Supply</pj:title>
-      <pj:description><![CDATA[TEST FEED]]></pj:description>
-      <pj:google_product_category/>
-      <pj:product_type>Kosttillskott &gt; Användningsområde &gt; Hår, Hud &amp; Naglar</pj:product_type>
-      <pj:link>https://www.topformula.se/elexir-pharma-hair-supply</pj:link>
-      <pj:image_link>https://media.topformula.se/catalog/product/h/a/hair-supply_1.jpg</pj:image_link>
-      <pj:condition>new</pj:condition>
-      <pj:availability>in stock</pj:availability>
-      <pj:price>199.00 SEK</pj:price>
-      <pj:brand>Elexir Pharma</pj:brand>
-      <pj:gtin>7350023030601</pj:gtin>
-      <pj:mpn>111805NKPG</pj:mpn>
-      <pj:identifier_exists>TRUE</pj:identifier_exists>
-      <pj:gender/>
-      <pj:age_group/>
-      <pj:size>55 cm</pj:size>
-      <pj:item_group_id/>
-      <pj:color/>
-      <pj:material/>
-      <pj:pattern/>
-      <pj:member_price>123 SEK</pj:member_price>
-      <pj:sale_price>189.00 SEK</pj:sale_price>
-      <pj:sale_price_effective_date>2022-03-01T13:00-0800/2022-04-20T15:30-0800</pj:sale_price_effective_date>
-      <pj:shipping>
-        <pj:country>SE</pj:country>
-        <pj:region/>
-        <pj:service/>
-        <pj:price>0 SEK</pj:price>
-      </pj:shipping>
-      <pj:multipack/>
-      <pj:adult/>
-      <pj:adwords_grouping/>
-      <pj:adwords_labels/>
-      <pj:adwords_redirect/>
-      <pj:unit_pricing_measure></pj:unit_pricing_measure>
-      <pj:unit_pricing_base_measure></pj:unit_pricing_base_measure>
-      <pj:energy_efficiency_class/>
-      <pj:online_only/>
-    </item>
-  </channel>
+<rss
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:pj="http://base.prisjakt.nu/xs/1.0" version="2.0"
+	xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>Exemplary Prisjakt feed</title>
+		<link>http://www.prisjakt.nu</link>
+		<description>Prisjakt exemplary data feed</description>
+		<pj:item>
+			<pj:id>111805NKPG</pj:id>
+			<pj:gtin>7350023030601</pj:gtin>
+			<pj:title>Elexir Pharma | Hair Supply</pj:title>
+			<pj:description>
+				<![CDATA[TEST FEED]]>
+			</pj:description>
+			<pj:google_product_category/>
+			<g:product_type>Kosttillskott &gt; Användningsområde &gt; Hår, Hud &amp; Naglar</g:product_type>
+			<pj:link>https://www.topformula.se/elexir-pharma-hair-supply</pj:link>
+			<pj:image_link>https://media.topformula.se/catalog/product/h/a/hair-supply_1.jpg</pj:image_link>
+			<pj:condition>new</pj:condition>
+			<pj:availability>in stock</pj:availability>
+			<pj:price>199.00 SEK</pj:price>
+			<pj:brand>Elexir Pharma</pj:brand>
+			<g:gtin>7350023030601</g:gtin>
+			<pj:mpn>111805NKPG</pj:mpn>
+			<pj:identifier_exists>TRUE</pj:identifier_exists>
+			<pj:gender/>
+			<pj:age_group/>
+			<pj:size>55 cm</pj:size>
+			<g:item_group_id/>
+			<g:color/>
+			<g:material/>
+			<g:pattern/>
+			<pj:member_price>123 SEK</pj:member_price>
+			<pj:sale_price>189.00 SEK</pj:sale_price>
+			<pj:sale_price_effective_date>2022-03-01T13:00-0800/2022-04-20T15:30-0800</pj:sale_price_effective_date>
+			<pj:shipping>
+				<pj:country>SE</pj:country>
+				<pj:region/>
+				<pj:service/>
+				<pj:price>0 SEK</pj:price>
+			</pj:shipping>
+			<pj:multipack/>
+			<pj:adult/>
+			<g:adwords_grouping/>
+			<g:adwords_labels/>
+			<g:adwords_redirect/>
+			<pj:unit_pricing_measure></pj:unit_pricing_measure>
+			<pj:unit_pricing_base_measure></pj:unit_pricing_base_measure>
+			<pj:energy_efficiency_class/>
+			<pj:online_only/>
+		</pj:item>
+	</channel>
 </rss>
