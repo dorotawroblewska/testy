@@ -26,10 +26,10 @@
 		<pj:gender/>
 		<pj:age_group/>
 		<pj:size>55 cm</pj:size>
-		<g:item_group_id/>
-		<g:color/>
-		<g:material/>
-		<g:pattern/>
+		<item_group_id/>
+		<color/>
+		<material/>
+		<pattern/>
 		<pj:member_price>123 SEK</pj:member_price>
 		<pj:sale_price>189.00 SEK</pj:sale_price>
 		<pj:sale_price_effective_date>2022-03-01T13:00-0800/2022-04-20T15:30-0800</pj:sale_price_effective_date>
