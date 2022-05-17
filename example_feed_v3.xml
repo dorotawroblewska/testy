@@ -17,19 +17,12 @@
 		<pj:link>https://www.topformula.se/elexir-pharma-hair-{supply}</pj:link>
 		<pj:image_link>https://media.topformula.se/catalog/product/h/a/hair-supply_1.jpg</pj:image_link>
 		<pj:condition>new</pj:condition>
-		<pj:availability>in stock</pj:availability>
+		<pj:availability>preorder</pj:availability>
+		<pj:availability_date>2023-02-24T12:12:12</pj:availability_date>
 		<pj:price>199.00 SEK</pj:price>
 		<pj:brand>Elexir Pharma</pj:brand>
 		<g:gtin>7350023030601</g:gtin>
 		<pj:mpn>111805NKPG</pj:mpn>
-		<pj:identifier_exists>TRUE</pj:identifier_exists>
-		<pj:gender/>
-		<pj:age_group/>
-		<pj:size>55 cm</pj:size>
-		<item_group_id/>
-		<color/>
-		<material/>
-		<pattern/>
 		<pj:member_price>123 SEK</pj:member_price>
 		<pj:sale_price>189.00 SEK</pj:sale_price>
 		<pj:sale_price_effective_date>2022-03-01T13:00-0800/2022-04-20T15:30-0800</pj:sale_price_effective_date>
@@ -39,14 +32,5 @@
 			<pj:service/>
 			<pj:price>0 SEK</pj:price>
 		</pj:shipping>
-		<pj:multipack/>
-		<pj:adult/>
-		<g:adwords_grouping/>
-		<g:adwords_labels/>
-		<g:adwords_redirect/>
-		<pj:unit_pricing_measure></pj:unit_pricing_measure>
-		<pj:unit_pricing_base_measure></pj:unit_pricing_base_measure>
-		<pj:energy_efficiency_class/>
-		<pj:online_only/>
 	</item>
 </channel>
