@@ -4,7 +4,7 @@
 	xmlns:pj="http://base.prisjakt.nu/xs/1.0"
 	xmlns:g="http://base.google.com/ns/1.0" version="2.0">
 	<item>
-		<pj:id>1118205NKG</pj:id>
+		<pj:id>111805NKPG</pj:id>
 		<pj:gtin>7350023030601</pj:gtin>
 		<pj:title>Elexir Pharma | Hair Supply</pj:title>
 		<pj:description>
@@ -21,7 +21,6 @@
 		<pj:availability_date>2022-03-01T13:00-0800</pj:availability_date>
 		<pj:price>199.00 SEK</pj:price>
 		<pj:brand>Elexir Pharma</pj:brand>
-		<g:gtin>7350023030601</g:gtin>
 		<pj:mpn>111805NKPG</pj:mpn>
 		<pj:member_price>123 SEK</pj:member_price>
 		<pj:sale_price>189.00 SEK</pj:sale_price>
