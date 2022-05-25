@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="channel">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="entry">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" type="xs:string" />
+              <xs:element name="title" type="xs:string" />
+              <xs:element name="link" type="xs:string" />
+              <xs:element name="availability" type="xs:string" />
+              <xs:element name="price" type="xs:string" />
+              <xs:element name="condition" type="xs:string" />
+              <xs:element name="product_type" type="xs:string" />
+              <xs:element name="image_link" type="xs:string" />
+              <xs:element name="sale_price" type="xs:string" />
+              <xs:element name="google_product_category" type="xs:string" />
+              <xs:element name="gtin" type="xs:unsignedLong" />
+              <xs:element name="mpn" type="xs:string" />
+              <xs:element name="description" type="xs:string" />
+              <xs:element name="affiliate_link" />
+              <xs:element maxOccurs="unbounded" name="additional_image_link" type="xs:string" />
+              <xs:element name="pre_order_date" />
+              <xs:element name="sale_price_effective_date" />
+              <xs:element name="brand" type="xs:string" />
+              <xs:element name="color" type="xs:string" />
+              <xs:element name="gender" type="xs:string" />
+              <xs:element name="material" />
+              <xs:element name="pattern" />
+              <xs:element name="size" type="xs:string" />
+              <xs:element name="size_system" type="xs:string" />
+              <xs:element name="item_group_id" type="xs:unsignedInt" />
+              <xs:element name="member_price" type="xs:string" />
+              <xs:element name="product_detail">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="section_name" />
+                    <xs:element name="attribute_name" />
+                    <xs:element name="attribute_value" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element maxOccurs="unbounded" name="shipping">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="country" type="xs:string" />
+                    <xs:element name="region" />
+                    <xs:element name="service" type="xs:string" />
+                    <xs:element name="price" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="prisjakt_id" type="xs:unsignedInt" />
+              <xs:element name="promotion">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="promotion_name" />
+                    <xs:element name="promotion_price" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="marketplace_retailer" />
+              <xs:element name="additional_fees">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="fee_name" />
+                    <xs:element name="price" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="supplier_offer_id" />
+              <xs:element name="age_group" type="xs:string" />
+              <xs:element name="adult" type="xs:string" />
+              <xs:element name="is_bundle" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
