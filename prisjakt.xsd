@@ -1,88 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
-  xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:element name="channel">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" name="entry">
-          <xs:complexType>
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="channel">
+        <xs:complexType>
             <xs:sequence>
-              <xs:element name="id" type="xs:string" minOccurs="1" maxOccurs="1"/>
-              <xs:element name="title" type="xs:string" minOccurs="1" maxOccurs="1"/>
-              <xs:element name="link" type="xs:string" minOccurs="1" maxOccurs="1"/>
-              <xs:element name="availability" type="xs:string" />
-              <xs:element name="price" type="xs:string" minOccurs="1" maxOccurs="1"/>
-              <xs:element name="condition" type="xs:string" />
-              <xs:element name="product_type" type="xs:string" />
-              <xs:element name="image_link" type="xs:string" />
-              <xs:element minOccurs="0" name="sale_price" type="xs:string" />
-              <xs:element name="google_product_category" type="xs:string" />
-              <xs:element name="gtin" type="xs:unsignedLong" />
-              <xs:element name="mpn" type="xs:string" />
-              <xs:element name="description" type="xs:string" />
-              <xs:element name="affiliate_link" type="xs:string" />
-              <xs:element maxOccurs="unbounded" name="additional_image_link" type="xs:string" />
-              <xs:element name="pre_order_date" type="xs:string" />
-              <xs:element name="sale_price_effective_date" type="xs:string" />
-              <xs:element name="brand" type="xs:string" />
-              <xs:element name="color" type="xs:string" />
-              <xs:element name="gender" type="xs:string" />
-              <xs:element minOccurs="0" name="material" type="xs:string" />
-              <xs:element minOccurs="0" name="pattern" type="xs:string" />
-              <xs:element name="size" type="xs:string" />
-              <xs:element name="size_system" type="xs:string" />
-              <xs:element name="item_group_id" type="xs:unsignedInt" />
-              <xs:element minOccurs="0" name="member_price" type="xs:string" />
-              <xs:element minOccurs="0" name="product_detail">
-                <xs:complexType>
-                  <xs:sequence>
-                    <xs:element name="section_name" type="xs:string" />
-                    <xs:element name="attribute_name" type="xs:string" />
-                    <xs:element name="attribute_value" type="xs:string" />
-                  </xs:sequence>
-                </xs:complexType>
-              </xs:element>
-              <xs:element maxOccurs="unbounded" name="shipping">
-                <xs:complexType>
-                  <xs:sequence>
-                    <xs:element name="country" type="xs:string" />
-                    <xs:element minOccurs="0" name="region" type="xs:string" />
-                    <xs:element name="service" type="xs:string" />
-                    <xs:element name="price" type="xs:string" />
-                    <xs:element minOccurs="0" name="max_handling_time" type="xs:unsignedByte" />
-                    <xs:element minOccurs="0" name="min_handling_time" type="xs:unsignedByte" />
-                    <xs:element minOccurs="0" name="min_transit_time" type="xs:unsignedByte" />
-                    <xs:element minOccurs="0" name="max_transit_time" type="xs:unsignedByte" />
-                  </xs:sequence>
-                </xs:complexType>
-              </xs:element>
-              <xs:element name="prisjakt_id" type="xs:string" />
-              <xs:element minOccurs="0" name="promotion">
-                <xs:complexType>
-                  <xs:sequence>
-                    <xs:element name="promotion_name" type="xs:string" />
-                    <xs:element name="promotion_price" type="xs:string" />
-                  </xs:sequence>
-                </xs:complexType>
-              </xs:element>
-              <xs:element minOccurs="0" name="marketplace_retailer" type="xs:string" />
-              <xs:element minOccurs="0" name="additional_fees">
-                <xs:complexType>
-                  <xs:sequence>
-                    <xs:element name="fee_name" type="xs:string" />
-                    <xs:element name="price" type="xs:string" />
-                  </xs:sequence>
-                </xs:complexType>
-              </xs:element>
-              <xs:element minOccurs="0" name="supplier_offer_id" type="xs:string" />
-              <xs:element name="age_group" type="xs:string" />
-              <xs:element name="adult" type="xs:string" />
-              <xs:element minOccurs="0" name="is_bundle" type="xs:string" />
-              <xs:element minOccurs="0" name="energy_efficiency_class" />
+                <xs:element name="entry" minOccurs="0" maxOccurs="unbounded" >
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id" type="xs:string"/>
+                            <xs:element name="title" type="xs:string"/>
+                            <xs:element name="link" type="xs:anyURI"/>
+                            <xs:element name="availability" type="availabilityType"/>
+                            <xs:element name="price" type="xs:string"/>
+                            <xs:element name="condition" type="conditionType"/>
+                            <xs:element name="product_type" type="xs:string"/>
+                            <xs:element name="image_link" type="xs:anyURI" minOccurs="0"/>
+                            <xs:element name="sale_price" type="xs:string" minOccurs="0" />
+                            <xs:element name="google_product_category" type="xs:string" minOccurs="0"/>
+                            <xs:element name="gtin" minOccurs="0">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:unsignedLong">
+                                        <xs:totalDigits value="14"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="mpn" type="xs:string" minOccurs="0"/>
+                            <xs:element name="description" type="xs:string" minOccurs="0"/>
+                            <xs:element name="affiliate_link" type="xs:anyURI" minOccurs="0"/>
+                            <xs:element name="additional_image_link" type="xs:anyURI" minOccurs="0" maxOccurs="10"/>
+                            <xs:element name="pre_order_date" type="xs:string" minOccurs="0"/>
+                            <xs:element name="sale_price_effective_date" type="xs:string" minOccurs="0"/>
+                            <xs:element name="brand" type="xs:string" minOccurs="0"/>
+                            <xs:element name="color" type="xs:string" minOccurs="0"/>
+                            <xs:element name="gender" type="genderType" minOccurs="0"/>
+                            <xs:element name="material" type="xs:string" minOccurs="0"/>
+                            <xs:element name="pattern" type="xs:string" minOccurs="0"/>
+                            <xs:element name="size" type="xs:string" minOccurs="0"/>
+                            <xs:element name="size_system" type="xs:string" minOccurs="0"/>
+                            <xs:element name="item_group_id" type="xs:string" minOccurs="0"/>
+                            <xs:element name="member_price" type="xs:string" minOccurs="0"/>
+                            <xs:element name="product_detail" minOccurs="0" maxOccurs="1000">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="section_name" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="attribute_name" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="attribute_value" type="xs:string" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="shipping" minOccurs="0" maxOccurs="100">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="country" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="region" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="service" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="price" type="xs:string" minOccurs="0"/>
+                                        <xs:element name="max_handling_time" type="xs:int" minOccurs="0"/>
+                                        <xs:element name="min_handling_time" type="xs:int" minOccurs="0"/>
+                                        <xs:element name="min_transit_time" type="xs:int" minOccurs="0"/>
+                                        <xs:element name="max_transit_time" type="xs:int" minOccurs="0"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="prisjakt_id" type="xs:string" minOccurs="0"/>
+                            <xs:element name="promotion" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="promotion_name" type="xs:string"/>
+                                        <xs:element name="promotion_price" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="marketplace_retailer" type="xs:string" minOccurs="0"/>
+                            <xs:element name="additional_fees" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="fee_name" type="xs:string"/>
+                                        <xs:element name="price" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="supplier_offer_id" type="xs:string" minOccurs="0"/>
+                            <xs:element name="age_group" type="ageType" minOccurs="0"/>
+                            <xs:element name="adult" type="xs:string" minOccurs="0"/>
+                            <xs:element name="is_bundle" type="xs:string" minOccurs="0"/>
+                            <xs:element name="energy_efficiency_class" type="energyEffType" minOccurs="0"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
             </xs:sequence>
-          </xs:complexType>
-        </xs:element>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
+        </xs:complexType>
+    </xs:element>
+    <xs:simpleType name="availabilityType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="in_stock"/>
+            <xs:enumeration value="out_of_stock"/>
+            <xs:enumeration value="preorder"/>
+            <xs:enumeration value="pickup"/>
+            <xs:enumeration value="download"/>
+            <xs:enumeration value="not_available_for_purchase"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="conditionType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="new"/>
+            <xs:enumeration value="used"/>
+            <xs:enumeration value="demo"/>
+            <xs:enumeration value="refurbished"/>
+            <xs:enumeration value="damaged packaging"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="ageType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="newborn"/>
+            <xs:enumeration value="infant"/>
+            <xs:enumeration value="toddler"/>
+            <xs:enumeration value="kids"/>
+            <xs:enumeration value="adult"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="genderType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="male"/>
+            <xs:enumeration value="female"/>
+            <xs:enumeration value="unisex"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="energyEffType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="A+++"/>
+            <xs:enumeration value="A++"/>
+            <xs:enumeration value="A+"/>
+            <xs:enumeration value="A"/>
+            <xs:enumeration value="B"/>
+            <xs:enumeration value="C"/>
+            <xs:enumeration value="D"/>
+            <xs:enumeration value="E"/>
+            <xs:enumeration value="F"/>
+            <xs:enumeration value="G"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="entryType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="entry"/>
+            <xs:enumeration value="item"/>
+            <xs:enumeration value="product"/>
+        </xs:restriction>
+    </xs:simpleType>
 </xs:schema>
