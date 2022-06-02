@@ -31,5 +31,7 @@
 			<pj:service/>
 			<pj:price>0 SEK</pj:price>
 		</pj:shipping>
+		<pj:size>100ml/200ml</pj:size>
+		<pj:size_system>EU</pj:size_system>
 	</item>
 </channel>
