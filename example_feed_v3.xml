@@ -22,8 +22,8 @@
 		<pj:price>199.00 SEK</pj:price>
 		<pj:brand>Elexir Pharma</pj:brand>
 		<pj:mpn>111805NKPG</pj:mpn>
-		<pj:member_price>123 SEK</pj:member_price>
-		<pj:sale_price>189.00 SEK</pj:sale_price>
+		<pj:member_price>123</pj:member_price>
+		<pj:sale_price>189.00</pj:sale_price>
 		<pj:sale_price_effective_date>2022-03-01T13:00-0800/2022-04-20T15:30-0800</pj:sale_price_effective_date>
 		<pj:shipping>
 			<pj:country>SE</pj:country>
