@@ -6,112 +6,6 @@
 		<description>Google product feed</description>
 		<item>
 			<g:id>
-				<![CDATA[ 10054#-1N ]]>
-			</g:id>
-			<g:title>
-				<![CDATA[ Ansiktsvisir - 10 st. ]]>
-			</g:title>
-			<g:link>
-				<![CDATA[ https://www.fashiongirls.se/shop/ansiktsvisir-10-st-3540p.html ]]>
-			</g:link>
-			<g:description>
-				<![CDATA[ Detta ansiktsvisir ger fullständigt skydd för ditt ansikte direkt från ögonbrynen till hakan. Skyddar dig från damm, rök, partiklar, saliv eller stänk.<br /><br /> Ansiktsskärmen är gjord av PET-plast med ett skumlager som ger pannan den välbehövliga komforten om du måste bära den hela dagen. Det är lätt att justera efter formen och storleken på ditt huvud. ]]>
-			</g:description>
-			<g:gtin>
-				<![CDATA[ 5713895002725--123 ]]>
-			</g:gtin>
-			<g:image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054.jpg ]]>
-			</g:image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:product_type>
-				<![CDATA[ Hudvård > Munstycke ]]>
-			</g:product_type>
-			<g:condition>
-				<![CDATA[ new ]]>
-			</g:condition>
-			<g:availability>
-				<![CDATA[ in stock ]]>
-			</g:availability>
-			<g:price>
-				<![CDATA[ 349,00]]>
-			</g:price>
-			<g:sale_price>
-				<![CDATA[ 229,00 SEK ]]>
-			</g:sale_price>
-			<g:sale_price_effective_date>
-				<![CDATA[ 2012-01-01T00:00:00+0100/2024-06-30T23:59:00+0100 ]]>
-			</g:sale_price_effective_date>
-			<g:brand>
-				<![CDATA[ NOVICARE ]]>
-			</g:brand>
-			<g:shipping>
-				<g:country>
-					<![CDATA[ SE ]]>
-				</g:country>
-				<g:service>
-					<![CDATA[ Standard ]]>
-				</g:service>
-				<g:price>
-					<![CDATA[ 35,00 SEK ]]>
-				</g:price>
-			</g:shipping>
-		</item>
-		<item>
-			<g:id>
 				<![CDATA[ 10054-1N ]]>
 			</g:id>
 			<g:title>
@@ -499,6 +393,112 @@
 			</g:sale_price_effective_date>
 			<g:brand>
 				<![CDATA[ Hårpynt ]]>
+			</g:brand>
+			<g:shipping>
+				<g:country>
+					<![CDATA[ SE ]]>
+				</g:country>
+				<g:service>
+					<![CDATA[ Standard ]]>
+				</g:service>
+				<g:price>
+					<![CDATA[ 35,00 SEK ]]>
+				</g:price>
+			</g:shipping>
+		</item>
+		<item>
+			<g:id>
+				<![CDATA[ 10054#-1N ]]>
+			</g:id>
+			<g:title>
+				<![CDATA[ Ansiktsvisir - 10 st. ]]>
+			</g:title>
+			<g:link>
+				<![CDATA[ https://www.fashiongirls.se/shop/ansiktsvisir-10-st-3540p.html ]]>
+			</g:link>
+			<g:description>
+				<![CDATA[ Detta ansiktsvisir ger fullständigt skydd för ditt ansikte direkt från ögonbrynen till hakan. Skyddar dig från damm, rök, partiklar, saliv eller stänk.<br /><br /> Ansiktsskärmen är gjord av PET-plast med ett skumlager som ger pannan den välbehövliga komforten om du måste bära den hela dagen. Det är lätt att justera efter formen och storleken på ditt huvud. ]]>
+			</g:description>
+			<g:gtin>
+				<![CDATA[ 5713895002725--123 ]]>
+			</g:gtin>
+			<g:image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054.jpg ]]>
+			</g:image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
+			</g:additional_image_link>
+			<g:product_type>
+				<![CDATA[ Hudvård > Munstycke ]]>
+			</g:product_type>
+			<g:condition>
+				<![CDATA[ new ]]>
+			</g:condition>
+			<g:availability>
+				<![CDATA[ in stock ]]>
+			</g:availability>
+			<g:price>
+				<![CDATA[ 349,00]]>
+			</g:price>
+			<g:sale_price>
+				<![CDATA[ 229,00 SEK ]]>
+			</g:sale_price>
+			<g:sale_price_effective_date>
+				<![CDATA[ 2012-01-01T00:00:00+0100/2024-06-30T23:59:00+0100 ]]>
+			</g:sale_price_effective_date>
+			<g:brand>
+				<![CDATA[ NOVICARE ]]>
 			</g:brand>
 			<g:shipping>
 				<g:country>
