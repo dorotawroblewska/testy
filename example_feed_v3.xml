@@ -1,99 +1,304 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<channel
-	xmlns="http://www.w3.org/2005/Atom"
-	xmlns:pj="http://base.prisjakt.nu/xs/1.0"
+<rss
 	xmlns:g="http://base.google.com/ns/1.0" version="2.0">
-	<item>
-		<pj:id>111805NKPRRG</pj:id>
-		<pj:gtin>7350023030601</pj:gtin>
-		<pj:title>Elexir Pharma | Hair Supply</pj:title>
-		<pj:description>
-			<![CDATA[TEST FEED]]>
-		</pj:description>
-		<pj:google_product_category/>
-		<g:product_type>
-			<![CDATA[Kosttillskott &gt; Användningsområde &gt; Hår, Hud &amp; Naglar]]>
-		</g:product_type>
-		<pj:link>https://www.topformula.se/elexir-pharma-hair-supply</pj:link>
-		<pj:image_link>https://media.topformula.se/catalog/product/h/a/hair-supply_1.jpg</pj:image_link>
-		<pj:condition>new</pj:condition>
-		<pj:availability>preorder</pj:availability>
-		<pj:availability_date>2022-03-01T13:00-0800</pj:availability_date>
-		<pj:price>199.00 SEK</pj:price>
-		<pj:brand>Elexir Pharma</pj:brand>
-		<pj:mpn>111805NKPG</pj:mpn>
-		<pj:member_price>123</pj:member_price>
-		<pj:sale_price>189.00</pj:sale_price>
-		<pj:sale_price_effective_date>2022-03-01T13:00-0800/2022-04-20T15:30-0800</pj:sale_price_effective_date>
-		<pj:shipping>
-			<pj:country>SE</pj:country>
-			<pj:region/>
-			<pj:service/>
-			<pj:price>0 SEK</pj:price>
-		</pj:shipping>
-		<pj:size>100ml/200ml</pj:size>
-		<pj:size_system>EU</pj:size_system>
-	</item>
-	<item>
-		<pj:id>111805NKPRRG</pj:id>
-		<pj:gtin>7350023030601</pj:gtin>
-		<pj:title>Elexir Pharma | Hair Supply</pj:title>
-		<pj:description>
-			<![CDATA[TEST FEED]]>
-		</pj:description>
-		<pj:google_product_category/>
-		<g:product_type>
-			<![CDATA[Kosttillskott &gt; Användningsområde &gt; Hår, Hud &amp; Naglar]]>
-		</g:product_type>
-		<pj:link>https://www.topformula.se/elexir-pharma-hair-supply</pj:link>
-		<pj:image_link>https://media.topformula.se/catalog/product/h/a/hair-supply_1.jpg</pj:image_link>
-		<pj:condition>new</pj:condition>
-		<pj:availability>preorder</pj:availability>
-		<pj:availability_date>2022-03-01T13:00-0800</pj:availability_date>
-		<pj:price>199.00 SEK</pj:price>
-		<pj:brand>Elexir Pharma</pj:brand>
-		<pj:mpn>111805NKPG</pj:mpn>
-		<pj:member_price>123 SEK</pj:member_price>
-		<pj:sale_price>189.00 SEK</pj:sale_price>
-		<pj:sale_price_effective_date>2022-03-01T13:00-0800/2022-04-20T15:30-0800</pj:sale_price_effective_date>
-		<pj:shipping>
-			<pj:country>SE</pj:country>
-			<pj:region/>
-			<pj:service/>
-			<pj:price>0 SEK</pj:price>
-		</pj:shipping>
-		<pj:size>100ml/200ml</pj:size>
-		<pj:size_system>EU</pj:size_system>
-	</item>
-	<item>
-		<pj:id>111805RRG</pj:id>
-		<pj:gtin>7350023030601</pj:gtin>
-		<pj:title>Elexir Pharma | Hair Supply</pj:title>
-		<pj:description>
-			<![CDATA[TEST FEED]]>
-		</pj:description>
-		<pj:google_product_category/>
-		<g:product_type>
-			<![CDATA[Kosttillskott &gt; Användningsområde &gt; Hår, Hud &amp; Naglar]]>
-		</g:product_type>
-		<pj:link>https://www.topformula.se/elexir-pharma-hair-supply</pj:link>
-		<pj:image_link>https://media.topformula.se/catalog/product/h/a/hair-supply_1.jpg</pj:image_link>
-		<pj:condition>new</pj:condition>
-		<pj:availability>preorder</pj:availability>
-		<pj:availability_date>2022-03-01T13:00-0800</pj:availability_date>
-		<pj:price>199.00 SEK</pj:price>
-		<pj:brand>Elexir Pharma</pj:brand>
-		<pj:mpn>111805NKPG</pj:mpn>
-		<pj:member_price>123 SEK</pj:member_price>
-		<pj:sale_price>189.00 SEK</pj:sale_price>
-		<pj:sale_price_effective_date>2022-03-01T13:00-0800/2022-04-20T15:30-0800</pj:sale_price_effective_date>
-		<pj:shipping>
-			<pj:country>SE</pj:country>
-			<pj:region/>
-			<pj:service/>
-			<pj:price>0 SEK</pj:price>
-		</pj:shipping>
-		<pj:size>100ml/200ml</pj:size>
-		<pj:size_system>EU</pj:size_system>
-	</item>
-</channel>
+	<channel>
+		<title>Google product feed</title>
+		<link href="http://www.fashiongirls.se" rel="alternate" type="text/html"/>
+		<description>Google product feed</description>
+		<item>
+			<g:id>
+				<![CDATA[ 10054#-1N ]]>
+			</g:id>
+			<g:title>
+				<![CDATA[ Ansiktsvisir - 10 st. ]]>
+			</g:title>
+			<g:link>
+				<![CDATA[ https://www.fashiongirls.se/shop/ansiktsvisir-10-st-3540p.html ]]>
+			</g:link>
+			<g:description>
+				<![CDATA[ Detta ansiktsvisir ger fullständigt skydd för ditt ansikte direkt från ögonbrynen till hakan. Skyddar dig från damm, rök, partiklar, saliv eller stänk.<br /><br /> Ansiktsskärmen är gjord av PET-plast med ett skumlager som ger pannan den välbehövliga komforten om du måste bära den hela dagen. Det är lätt att justera efter formen och storleken på ditt huvud. ]]>
+			</g:description>
+			<g:gtin>
+				<![CDATA[ 5713895002725--123 ]]>
+			</g:gtin>
+			<g:image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054.jpg ]]>
+			</g:image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
+			</g:additional_image_link>
+			<g:product_type>
+				<![CDATA[ Hudvård > Munstycke ]]>
+			</g:product_type>
+			<g:condition>
+				<![CDATA[ new ]]>
+			</g:condition>
+			<g:availability>
+				<![CDATA[ in stock ]]>
+			</g:availability>
+			<g:price>
+				<![CDATA[ 349,00]]>
+			</g:price>
+			<g:sale_price>
+				<![CDATA[ 229,00 SEK ]]>
+			</g:sale_price>
+			<g:sale_price_effective_date>
+				<![CDATA[ 2012-01-01T00:00:00+0100/2024-06-30T23:59:00+0100 ]]>
+			</g:sale_price_effective_date>
+			<g:brand>
+				<![CDATA[ NOVICARE ]]>
+			</g:brand>
+			<g:shipping>
+				<g:country>
+					<![CDATA[ SE ]]>
+				</g:country>
+				<g:service>
+					<![CDATA[ Standard ]]>
+				</g:service>
+				<g:price>
+					<![CDATA[ 35,00 SEK ]]>
+				</g:price>
+			</g:shipping>
+		</item>
+		<item>
+			<g:id>
+				<![CDATA[ 10054N ]]>
+			</g:id>
+			<g:title>
+				<![CDATA[ Ansiktsvisir - 1 st. ]]>
+			</g:title>
+			<g:link>
+				<![CDATA[ https://www.fashiongirls.se/shop/ansiktsvisir-1-st-3539p.html ]]>
+			</g:link>
+			<g:description>
+				<![CDATA[ Detta ansiktsvisir ger fullständigt skydd för ditt ansikte direkt från ögonbrynen till hakan. Skyddar dig från damm, rök, partiklar, saliv eller stänk.<br /><br /> Ansiktsskärmen är gjord av PET-plast med ett skumlager som ger pannan den välbehövliga komforten om du måste bära den hela dagen. Det är lätt att justera efter formen och storleken på ditt huvud. ]]>
+			</g:description>
+			<g:gtin>
+				<![CDATA[ 5713895002732 ]]>
+			</g:gtin>
+			<g:image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054.jpg ]]>
+			</g:image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
+			</g:additional_image_link>
+			<g:product_type>
+				<![CDATA[ Hudvård > Munstycke ]]>
+			</g:product_type>
+			<g:condition>
+				<![CDATA[ new ]]>
+			</g:condition>
+			<g:availability>
+				<![CDATA[ in stock ]]>
+			</g:availability>
+			<g:price>
+				<![CDATA[ 59,00 SEK ]]>
+			</g:price>
+			<g:brand>
+				<![CDATA[ NOVICARE ]]>
+			</g:brand>
+			<g:shipping>
+				<g:country>
+					<![CDATA[ SE ]]>
+				</g:country>
+				<g:service>
+					<![CDATA[ Standard ]]>
+				</g:service>
+				<g:price>
+					<![CDATA[ 35,00 SEK ]]>
+				</g:price>
+			</g:shipping>
+		</item>
+		<item>
+			<g:id>
+				<![CDATA[ 10055-1 ]]>
+			</g:id>
+			<g:title>
+				<![CDATA[ Munvisir - 10 st. ]]>
+			</g:title>
+			<g:link>
+				<![CDATA[ https://www.fashiongirls.se/shop/munvisir-10-st-3542p.html ]]>
+			</g:link>
+			<g:description>
+				<![CDATA[ Detta munskydd är perfekt för människor som arbetar i varma miljöer som kök eller matvagn. Det är lätt att älska detta munskydd eftersom det gör det lättare att andas. Tack vare den öppna designen förstörs inte sminkningen samt att man kan se om man ler! <br /><br /> Munskyddet är tillverkat av högkvalitativ antidimplast, vilket gör att du behöver inte oroa dig för att munvisiret blir dimmigt efter att du har använt det länge.<br /><br /> Innehåller 10 st munvisir. ]]>
+			</g:description>
+			<g:gtin>
+				<![CDATA[ 5713895002749 ]]>
+			</g:gtin>
+			<g:image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055.jpg ]]>
+			</g:image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055%20image3.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055%20image4.jpg ]]>
+			</g:additional_image_link>
+			<g:product_type>
+				<![CDATA[ Hudvård > Munstycke ]]>
+			</g:product_type>
+			<g:condition>
+				<![CDATA[ new ]]>
+			</g:condition>
+			<g:availability>
+				<![CDATA[ in stock ]]>
+			</g:availability>
+			<g:price>
+				<![CDATA[ 249,00 SEK ]]>
+			</g:price>
+			<g:brand>
+				<![CDATA[ NOVICARE ]]>
+			</g:brand>
+			<g:shipping>
+				<g:country>
+					<![CDATA[ SE ]]>
+				</g:country>
+				<g:service>
+					<![CDATA[ Standard ]]>
+				</g:service>
+				<g:price>
+					<![CDATA[ 35,00 SEK ]]>
+				</g:price>
+			</g:shipping>
+		</item>
+		<item>
+			<g:id>
+				<![CDATA[ 10055N ]]>
+			</g:id>
+			<g:title>
+				<![CDATA[ Munvisir - 1 st. ]]>
+			</g:title>
+			<g:link>
+				<![CDATA[ https://www.fashiongirls.se/shop/munvisir-1-st-3541p.html ]]>
+			</g:link>
+			<g:description>
+				<![CDATA[ Detta munskydd är perfekt för människor som arbetar i varma miljöer som kök eller matvagn. Det är lätt att älska detta munskydd eftersom det gör det lättare att andas. Tack vare den öppna designen förstörs inte sminkningen samt att man kan se om man ler! <br /><br /> Munskyddet är tillverkat av högkvalitativ antidimplast, vilket gör att du behöver inte oroa dig för att munvisiret blir dimmigt efter att du har använt det länge. ]]>
+			</g:description>
+			<g:gtin>
+				<![CDATA[ 5713895002756 ]]>
+			</g:gtin>
+			<g:image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055.jpg ]]>
+			</g:image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055%20image1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055%20image2.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055%20image3.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/10055%20image4.jpg ]]>
+			</g:additional_image_link>
+			<g:product_type>
+				<![CDATA[ Hudvård > Munstycke ]]>
+			</g:product_type>
+			<g:condition>
+				<![CDATA[ new ]]>
+			</g:condition>
+			<g:availability>
+				<![CDATA[ in stock ]]>
+			</g:availability>
+			<g:price>
+				<![CDATA[ 49,00 SEK ]]>
+			</g:price>
+			<g:brand>
+				<![CDATA[ NOVICARE ]]>
+			</g:brand>
+			<g:shipping>
+				<g:country>
+					<![CDATA[ SE ]]>
+				</g:country>
+				<g:service>
+					<![CDATA[ Standard ]]>
+				</g:service>
+				<g:price>
+					<![CDATA[ 35,00 SEK ]]>
+				</g:price>
+			</g:shipping>
+		</item>
+		<item>
+			<g:id>
+				<![CDATA[ 1044 ]]>
+			</g:id>
+			<g:title>
+				<![CDATA[ Pony Tail Holder Spiral - Guld ]]>
+			</g:title>
+			<g:link>
+				<![CDATA[ https://www.fashiongirls.se/shop/pony-tail-holder-771p.html ]]>
+			</g:link>
+			<g:description>
+				<![CDATA[ Snygg spiral till att utsmycka hästsvansen med. Kan även användas till hårknut.<br /><br /> Spiralen kläms samman så att smycket sitter stramt runt om håret. En snygg finish på din frisyr! ]]>
+			</g:description>
+			<g:gtin>
+				<![CDATA[ 5713895002763 ]]>
+			</g:gtin>
+			<g:mpn>
+				<![CDATA[ 1099 ]]>
+			</g:mpn>
+			<g:google_product_category>
+				<![CDATA[ Sundhed og skønhed > Personlig pleje ]]>
+			</g:google_product_category>
+			<g:image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/Haar-ring-spiral-guld.jpg ]]>
+			</g:image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/birthnest-rhine-stone-1.jpg ]]>
+			</g:additional_image_link>
+			<g:additional_image_link>
+				<![CDATA[ https://www.fashiongirls.se/images/birthnest-rhine-stone-2.jpg ]]>
+			</g:additional_image_link>
+			<g:product_type>
+				<![CDATA[ Håraccessoarer > Hårsmycken ]]>
+			</g:product_type>
+			<g:condition>
+				<![CDATA[ new ]]>
+			</g:condition>
+			<g:availability>
+				<![CDATA[ in stock ]]>
+			</g:availability>
+			<g:price>
+				<![CDATA[ 79,00 SEK ]]>
+			</g:price>
+			<g:sale_price>
+				<![CDATA[ 39,00 SEK ]]>
+			</g:sale_price>
+			<g:sale_price_effective_date>
+				<![CDATA[ 2012-01-01T00:00:00+0100/2024-06-30T23:59:00+0100 ]]>
+			</g:sale_price_effective_date>
+			<g:brand>
+				<![CDATA[ Hårpynt ]]>
+			</g:brand>
+			<g:shipping>
+				<g:country>
+					<![CDATA[ SE ]]>
+				</g:country>
+				<g:service>
+					<![CDATA[ Standard ]]>
+				</g:service>
+				<g:price>
+					<![CDATA[ 35,00 SEK ]]>
+				</g:price>
+			</g:shipping>
+		</item>
+	</channel>
+</rss>
