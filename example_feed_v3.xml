@@ -1,516 +1,31 @@
+<?xml version="1.0"?>
 <rss
-	xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	xmlns:g="http://base.google.com/ns/1.0" version="2.0" encoding="UTF-8" time="2022-08-30 11:35:06">
 	<channel>
-		<title>Google product feed</title>
-		<link href="http://www.fashiongirls.se" rel="alternate" type="text/html"/>
-		<description>Google product feed</description>
+		<title>Prisjakt</title>
+		<link>https://www.torn.no</link>
+		<description>T&#xF8;rn Product Feed. Homegrown for our convenience.</description>
 		<item>
-			<g:id>
-				<![CDATA[ 10054-1N ]]>
-			</g:id>
-			<g:title>
-				<![CDATA[ Ansiktsvisir - 10 st. ]]>
-			</g:title>
-			<g:link>
-				<![CDATA[ https://www.fashiongirls.se/shop/ansiktsvisir-10-st-3540p.html ]]>
-			</g:link>
-			<g:description>
-				<![CDATA[ Detta ansiktsvisir ger fullständigt skydd för ditt ansikte direkt från ögonbrynen till hakan. Skyddar dig från damm, rök, partiklar, saliv eller stänk.<br /><br /> Ansiktsskärmen är gjord av PET-plast med ett skumlager som ger pannan den välbehövliga komforten om du måste bära den hela dagen. Det är lätt att justera efter formen och storleken på ditt huvud. ]]>
-			</g:description>
-			<g:gtin>
-				<![CDATA[ 5713895002725 ]]>
-			</g:gtin>
-			<g:image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054.jpg ]]>
-			</g:image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:product_type>
-				<![CDATA[ Hudvård > Munstycke ]]>
-			</g:product_type>
-			<g:condition>
-				<![CDATA[ new ]]>
-			</g:condition>
-			<g:availability>
-				<![CDATA[ in stock ]]>
-			</g:availability>
-			<g:price>
-				<![CDATA[ 349,00 SEK]]>
-			</g:price>
-			<g:sale_price>
-				<![CDATA[ 229,00 SEK ]]>
-			</g:sale_price>
-			<g:sale_price_effective_date>
-				<![CDATA[ 2012-01-01T00:00:00+0100/2024-06-30T23:59:00+0100 ]]>
-			</g:sale_price_effective_date>
-			<g:brand>
-				<![CDATA[ NOVICARE ]]>
-			</g:brand>
-			<g:shipping>
-				<g:country>
-					<![CDATA[ SE ]]>
-				</g:country>
-				<g:service>
-					<![CDATA[ Standard ]]>
-				</g:service>
-				<g:price>
-					<![CDATA[ 35,00 SEK ]]>
-				</g:price>
-			</g:shipping>
-		</item>
-		<item>
-			<g:id>
-				<![CDATA[ 10054-1N ]]>
-			</g:id>
-			<g:title>
-				<![CDATA[ Ansiktsvisir - 10 st. ]]>
-			</g:title>
-			<g:link>
-				<![CDATA[ https://www.fashiongirls.se/shop/ansiktsvisir-10-st-3540p.html ]]>
-			</g:link>
-			<g:description>
-				<![CDATA[ Detta ansiktsvisir ger fullständigt skydd för ditt ansikte direkt från ögonbrynen till hakan. Skyddar dig från damm, rök, partiklar, saliv eller stänk.<br /><br /> Ansiktsskärmen är gjord av PET-plast med ett skumlager som ger pannan den välbehövliga komforten om du måste bära den hela dagen. Det är lätt att justera efter formen och storleken på ditt huvud. ]]>
-			</g:description>
-			<g:gtin>
-				<![CDATA[ 5713895002725 ]]>
-			</g:gtin>
-			<g:image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054.jpg ]]>
-			</g:image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:product_type>
-				<![CDATA[ Hudvård > Munstycke ]]>
-			</g:product_type>
-			<g:condition>
-				<![CDATA[ new ]]>
-			</g:condition>
-			<g:availability>
-				<![CDATA[ in stock ]]>
-			</g:availability>
-			<g:price>
-				<![CDATA[ 349,00 SEK]]>
-			</g:price>
-			<g:sale_price>
-				<![CDATA[ 229,00 SEK ]]>
-			</g:sale_price>
-			<g:sale_price_effective_date>
-				<![CDATA[ 2012-01-01T00:00:00+0100/2024-06-30T23:59:00+0100 ]]>
-			</g:sale_price_effective_date>
-			<g:brand>
-				<![CDATA[ NOVICARE ]]>
-			</g:brand>
-			<g:shipping>
-				<g:country>
-					<![CDATA[ SE ]]>
-				</g:country>
-				<g:service>
-					<![CDATA[ Standard ]]>
-				</g:service>
-				<g:price>
-					<![CDATA[ 35,00 SEK ]]>
-				</g:price>
-			</g:shipping>
-		</item>
-		<item>
-			<g:id>
-				<![CDATA[ 10054N ]]>
-			</g:id>
-			<g:title>
-				<![CDATA[ Ansiktsvisir - 1 st. ]]>
-			</g:title>
-			<g:link>
-				<![CDATA[ https://www.fashiongirls.se/shop/ansiktsvisir-1-st-3539p.html ]]>
-			</g:link>
-			<g:description>
-				<![CDATA[ Detta ansiktsvisir ger fullständigt skydd för ditt ansikte direkt från ögonbrynen till hakan. Skyddar dig från damm, rök, partiklar, saliv eller stänk.<br /><br /> Ansiktsskärmen är gjord av PET-plast med ett skumlager som ger pannan den välbehövliga komforten om du måste bära den hela dagen. Det är lätt att justera efter formen och storleken på ditt huvud. ]]>
-			</g:description>
-			<g:gtin>
-				<![CDATA[ 5713895002732 ]]>
-			</g:gtin>
-			<g:image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054.jpg ]]>
-			</g:image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:product_type>
-				<![CDATA[ Hudvård > Munstycke ]]>
-			</g:product_type>
-			<g:condition>
-				<![CDATA[ new ]]>
-			</g:condition>
-			<g:availability>
-				<![CDATA[ in stock ]]>
-			</g:availability>
-			<g:price>
-				<![CDATA[ 59,00 SEK ]]>
-			</g:price>
-			<g:brand>
-				<![CDATA[ NOVICARE ]]>
-			</g:brand>
-			<g:shipping>
-				<g:country>
-					<![CDATA[ SE ]]>
-				</g:country>
-				<g:service>
-					<![CDATA[ Standard ]]>
-				</g:service>
-				<g:price>
-					<![CDATA[ 35,00 SEK ]]>
-				</g:price>
-			</g:shipping>
-		</item>
-		<item>
-			<g:id>
-				<![CDATA[ 10055-1 ]]>
-			</g:id>
-			<g:title>
-				<![CDATA[ Munvisir - 10 st. ]]>
-			</g:title>
-			<g:link>
-				<![CDATA[ https://www.fashiongirls.se/shop/munvisir-10-st-3542p.html ]]>
-			</g:link>
-			<g:description>
-				<![CDATA[ Detta munskydd är perfekt för människor som arbetar i varma miljöer som kök eller matvagn. Det är lätt att älska detta munskydd eftersom det gör det lättare att andas. Tack vare den öppna designen förstörs inte sminkningen samt att man kan se om man ler! <br /><br /> Munskyddet är tillverkat av högkvalitativ antidimplast, vilket gör att du behöver inte oroa dig för att munvisiret blir dimmigt efter att du har använt det länge.<br /><br /> Innehåller 10 st munvisir. ]]>
-			</g:description>
-			<g:gtin>
-				<![CDATA[ 5713895002749 ]]>
-			</g:gtin>
-			<g:image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055.jpg ]]>
-			</g:image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055%20image3.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055%20image4.jpg ]]>
-			</g:additional_image_link>
-			<g:product_type>
-				<![CDATA[ Hudvård > Munstycke ]]>
-			</g:product_type>
-			<g:condition>
-				<![CDATA[ new ]]>
-			</g:condition>
-			<g:availability>
-				<![CDATA[ in stock ]]>
-			</g:availability>
-			<g:price>
-				<![CDATA[ 249,00 SEK ]]>
-			</g:price>
-			<g:brand>
-				<![CDATA[ NOVICARE ]]>
-			</g:brand>
-			<g:shipping>
-				<g:country>
-					<![CDATA[ SE ]]>
-				</g:country>
-				<g:service>
-					<![CDATA[ Standard ]]>
-				</g:service>
-				<g:price>
-					<![CDATA[ 35,00 SEK ]]>
-				</g:price>
-			</g:shipping>
-		</item>
-		<item>
-			<g:id>
-				<![CDATA[ 10055N ]]>
-			</g:id>
-			<g:title>
-				<![CDATA[ Munvisir - 1 st. ]]>
-			</g:title>
-			<g:link>
-				<![CDATA[ https://www.fashiongirls.se/shop/munvisir-1-st-3541p.html ]]>
-			</g:link>
-			<g:description>
-				<![CDATA[ Detta munskydd är perfekt för människor som arbetar i varma miljöer som kök eller matvagn. Det är lätt att älska detta munskydd eftersom det gör det lättare att andas. Tack vare den öppna designen förstörs inte sminkningen samt att man kan se om man ler! <br /><br /> Munskyddet är tillverkat av högkvalitativ antidimplast, vilket gör att du behöver inte oroa dig för att munvisiret blir dimmigt efter att du har använt det länge. ]]>
-			</g:description>
-			<g:gtin>
-				<![CDATA[ 5713895002756 ]]>
-			</g:gtin>
-			<g:image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055.jpg ]]>
-			</g:image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055%20image3.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10055%20image4.jpg ]]>
-			</g:additional_image_link>
-			<g:product_type>
-				<![CDATA[ Hudvård > Munstycke ]]>
-			</g:product_type>
-			<g:condition>
-				<![CDATA[ new ]]>
-			</g:condition>
-			<g:availability>
-				<![CDATA[ in stock ]]>
-			</g:availability>
-			<g:price>
-				<![CDATA[ 49,00 SEK ]]>
-			</g:price>
-			<g:brand>
-				<![CDATA[ NOVICARE ]]>
-			</g:brand>
-			<g:shipping>
-				<g:country>
-					<![CDATA[ SE ]]>
-				</g:country>
-				<g:service>
-					<![CDATA[ Standard ]]>
-				</g:service>
-				<g:price>
-					<![CDATA[ 35,00 SEK ]]>
-				</g:price>
-			</g:shipping>
-		</item>
-		<item>
-			<g:id>
-				<![CDATA[ 1044 ]]>
-			</g:id>
-			<g:title>
-				<![CDATA[ Pony Tail Holder Spiral - Guld ]]>
-			</g:title>
-			<g:link>
-				<![CDATA[ https://www.fashiongirls.se/shop/pony-tail-holder-771p.html ]]>
-			</g:link>
-			<g:description>
-				<![CDATA[ Snygg spiral till att utsmycka hästsvansen med. Kan även användas till hårknut.<br /><br /> Spiralen kläms samman så att smycket sitter stramt runt om håret. En snygg finish på din frisyr! ]]>
-			</g:description>
-			<g:gtin>
-				<![CDATA[ 5713895002763 ]]>
-			</g:gtin>
-			<g:mpn>
-				<![CDATA[ 1099 ]]>
-			</g:mpn>
-			<g:google_product_category>
-				<![CDATA[ Sundhed og skønhed > Personlig pleje ]]>
-			</g:google_product_category>
-			<g:image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/Haar-ring-spiral-guld.jpg ]]>
-			</g:image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/birthnest-rhine-stone-1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/birthnest-rhine-stone-2.jpg ]]>
-			</g:additional_image_link>
-			<g:product_type>
-				<![CDATA[ Håraccessoarer > Hårsmycken ]]>
-			</g:product_type>
-			<g:condition>
-				<![CDATA[ new ]]>
-			</g:condition>
-			<g:availability>
-				<![CDATA[ in stock ]]>
-			</g:availability>
-			<g:price>
-				<![CDATA[ 79,00 SEK ]]>
-			</g:price>
-			<g:sale_price>
-				<![CDATA[ 39,00 SEK ]]>
-			</g:sale_price>
-			<g:sale_price_effective_date>
-				<![CDATA[ 2012-01-01T00:00:00+0100/2024-06-30T23:59:00+0100 ]]>
-			</g:sale_price_effective_date>
-			<g:brand>
-				<![CDATA[ Hårpynt ]]>
-			</g:brand>
-			<g:shipping>
-				<g:country>
-					<![CDATA[ SE ]]>
-				</g:country>
-				<g:service>
-					<![CDATA[ Standard ]]>
-				</g:service>
-				<g:price>
-					<![CDATA[ 35,00 SEK ]]>
-				</g:price>
-			</g:shipping>
-		</item>
-		<item>
-			<g:id>
-				<![CDATA[ 10054#-1N ]]>
-			</g:id>
-			<g:title>
-				<![CDATA[ Ansiktsvisir - 10 st. ]]>
-			</g:title>
-			<g:link>
-				<![CDATA[ https://www.fashiongirls.se/shop/ansiktsvisir-10-st-3540p.html ]]>
-			</g:link>
-			<g:description>
-				<![CDATA[ Detta ansiktsvisir ger fullständigt skydd för ditt ansikte direkt från ögonbrynen till hakan. Skyddar dig från damm, rök, partiklar, saliv eller stänk.<br /><br /> Ansiktsskärmen är gjord av PET-plast med ett skumlager som ger pannan den välbehövliga komforten om du måste bära den hela dagen. Det är lätt att justera efter formen och storleken på ditt huvud. ]]>
-			</g:description>
-			<g:gtin>
-				<![CDATA[ 5713895002725--123 ]]>
-			</g:gtin>
-			<g:image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054.jpg ]]>
-			</g:image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image1.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image2.jpg ]]>
-			</g:additional_image_link>
-			<g:additional_image_link>
-				<![CDATA[ https://www.fashiongirls.se/images/10054%20image3.jpeg ]]>
-			</g:additional_image_link>
-			<g:product_type>
-				<![CDATA[ Hudvård > Munstycke ]]>
-			</g:product_type>
-			<g:condition>
-				<![CDATA[ new ]]>
-			</g:condition>
-			<g:availability>
-				<![CDATA[ in stock ]]>
-			</g:availability>
-			<g:price>
-				<![CDATA[ 349,00]]>
-			</g:price>
-			<g:sale_price>
-				<![CDATA[ 229,00 SEK ]]>
-			</g:sale_price>
-			<g:sale_price_effective_date>
-				<![CDATA[ 2012-01-01T00:00:00+0100/2024-06-30T23:59:00+0100 ]]>
-			</g:sale_price_effective_date>
-			<g:brand>
-				<![CDATA[ NOVICARE ]]>
-			</g:brand>
-			<g:shipping>
-				<g:country>
-					<![CDATA[ SE ]]>
-				</g:country>
-				<g:service>
-					<![CDATA[ Standard ]]>
-				</g:service>
-				<g:price>
-					<![CDATA[ 35,00 SEK ]]>
-				</g:price>
-			</g:shipping>
+			<g:id>123767</g:id>
+			<g:availability>in stock</g:availability>
+			<g:condition>New</g:condition>
+			<g:description>GP Halogenp&#xE6;rer er et naturlig steg videre fra inneffektive gl&#xF8;dep&#xE6;rer. De har lengre levetid og Eco-variantene inneb&#xE6;rer en energibesparing med ca. 30%. De er dessuten dimbare. En enkel erstatter for gl&#xF8;dep&#xE6;ren helt enkelt.</g:description>
+			<g:image_link>https://images.torn.no/images/2022/08/30095217/aHR0cHM6Ly9jZG4uYnlnZ3RqZW5lc3RlLm5vL25vYmIvNGFlYTQ4YTYtMGE4Ny00Y2ViLTg1NDMtNzc4YzE2MzQyZTM2L3NxdWFyZQ%3D%3D.jpg</g:image_link>
+			<g:link>https://www.torn.no/product/lyspaere-hl-capsule-gy6-35-35w-2//?utm_source=prisjakt&amp;amp;utm_medium=affiliate&amp;amp;utm_term=123767</g:link>
+			<g:title>GP Batteries Lysp&#xE6;re hl capsule gy6.35-35w</g:title>
+			<g:price>NOK 25</g:price>
+			<g:sale_price>NOK 5</g:sale_price>
+			<g:product_type>Belysning</g:product_type>
+			<g:google_product_category>4636</g:google_product_category>
+			<g:shipping_weight>0.022 kg</g:shipping_weight>
+			<g:shipping_length>7 cm</g:shipping_length>
+			<g:shipping_width>15 cm</g:shipping_width>
+			<g:shipping_height>13 cm</g:shipping_height>
+			<g:brand>GP Batteries</g:brand>
+			<g:gtin>4895149042556</g:gtin>
+			<g:mpn>43836546</g:mpn>
+			<g:identifier_exists>yes</g:identifier_exists>
+			<g:custom_label_0>ordinary</g:custom_label_0>
 		</item>
 		<item>
 			<g:id>123771</g:id>
@@ -553,6 +68,28 @@
 			<g:brand>GP Batteries</g:brand>
 			<g:gtin>4895149042495</g:gtin>
 			<g:mpn>43836497</g:mpn>
+			<g:identifier_exists>yes</g:identifier_exists>
+			<g:custom_label_0>ordinary</g:custom_label_0>
+		</item>
+		<item>
+			<g:id>123767</g:id>
+			<g:availability>in stock</g:availability>
+			<g:condition>New</g:condition>
+			<g:description>GP Halogenp&#xE6;rer er et naturlig steg videre fra inneffektive gl&#xF8;dep&#xE6;rer. De har lengre levetid og Eco-variantene inneb&#xE6;rer en energibesparing med ca. 30%. De er dessuten dimbare. En enkel erstatter for gl&#xF8;dep&#xE6;ren helt enkelt.</g:description>
+			<g:image_link>https://images.torn.no/images/2022/08/30095217/aHR0cHM6Ly9jZG4uYnlnZ3RqZW5lc3RlLm5vL25vYmIvNGFlYTQ4YTYtMGE4Ny00Y2ViLTg1NDMtNzc4YzE2MzQyZTM2L3NxdWFyZQ%3D%3D.jpg</g:image_link>
+			<g:link>https://www.torn.no/product/lyspaere-hl-capsule-gy6-35-35w-2//?utm_source=prisjakt&amp;amp;utm_medium=affiliate&amp;amp;utm_term=123767</g:link>
+			<g:title>GP Batteries Lysp&#xE6;re hl capsule gy6.35-35w</g:title>
+			<g:price>NOK 25</g:price>
+			<g:sale_price>NOK 5</g:sale_price>
+			<g:product_type>Belysning</g:product_type>
+			<g:google_product_category>4636</g:google_product_category>
+			<g:shipping_weight>0.022 kg</g:shipping_weight>
+			<g:shipping_length>7 cm</g:shipping_length>
+			<g:shipping_width>15 cm</g:shipping_width>
+			<g:shipping_height>13 cm</g:shipping_height>
+			<g:brand>GP Batteries</g:brand>
+			<g:gtin>4895149042556</g:gtin>
+			<g:mpn>43836546</g:mpn>
 			<g:identifier_exists>yes</g:identifier_exists>
 			<g:custom_label_0>ordinary</g:custom_label_0>
 		</item>
