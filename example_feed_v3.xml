@@ -512,5 +512,49 @@
 				</g:price>
 			</g:shipping>
 		</item>
+		<item>
+			<g:id>123771</g:id>
+			<g:availability>in stock</g:availability>
+			<g:condition>New</g:condition>
+			<g:description>GP Halogenp&#xE6;rer er et naturlig steg videre fra inneffektive gl&#xF8;dep&#xE6;rer. De har lengre levetid og Eco-variantene inneb&#xE6;rer en energibesparing med ca. 30%. De er dessuten dimbare. En enkel erstatter for gl&#xF8;dep&#xE6;ren helt enkelt.</g:description>
+			<g:image_link>https://images.torn.no/images/2022/08/30095302/aHR0cHM6Ly9jZG4uYnlnZ3RqZW5lc3RlLm5vL25vYmIvYWE1MGY0MDYtZTg5YS00N2ExLTgxMWItYjFkOGM4NzQxOGFmL3NxdWFyZQ%3D%3D.jpg</g:image_link>
+			<g:link>https://www.torn.no/product/lyspaere-hl-capsule-lv-g4-10w//?utm_source=prisjakt&amp;amp;utm_medium=affiliate&amp;amp;utm_term=123771</g:link>
+			<g:title>GP Batteries Lysp&#xE6;re hl capsule lv g4 10w</g:title>
+			<g:price>NOK 24</g:price>
+			<g:sale_price>NOK 5</g:sale_price>
+			<g:product_type>Belysning</g:product_type>
+			<g:google_product_category>4636</g:google_product_category>
+			<g:shipping_weight>0.022 kg</g:shipping_weight>
+			<g:shipping_length>7 cm</g:shipping_length>
+			<g:shipping_width>15.3 cm</g:shipping_width>
+			<g:shipping_height>13.3 cm</g:shipping_height>
+			<g:brand>GP Batteries</g:brand>
+			<g:gtin>4895149042495</g:gtin>
+			<g:mpn>43836497</g:mpn>
+			<g:identifier_exists>yes</g:identifier_exists>
+			<g:custom_label_0>ordinary</g:custom_label_0>
+		</item>
+		<item>
+			<g:id>123771</g:id>
+			<g:availability>in stock</g:availability>
+			<g:condition>New</g:condition>
+			<g:description>GP Halogenp&#xE6;rer er et naturlig steg videre fra inneffektive gl&#xF8;dep&#xE6;rer. De har lengre levetid og Eco-variantene inneb&#xE6;rer en energibesparing med ca. 30%. De er dessuten dimbare. En enkel erstatter for gl&#xF8;dep&#xE6;ren helt enkelt.</g:description>
+			<g:image_link>https://images.torn.no/images/2022/08/30095302/aHR0cHM6Ly9jZG4uYnlnZ3RqZW5lc3RlLm5vL25vYmIvYWE1MGY0MDYtZTg5YS00N2ExLTgxMWItYjFkOGM4NzQxOGFmL3NxdWFyZQ%3D%3D.jpg</g:image_link>
+			<g:link>https://www.torn.no/product/lyspaere-hl-capsule-lv-g4-10w//?utm_source=prisjakt&amp;amp;utm_medium=affiliate&amp;amp;utm_term=123771</g:link>
+			<g:title>GP Batteries Lysp&#xE6;re hl capsule lv g4 10w</g:title>
+			<g:price>NOK 24</g:price>
+			<g:sale_price>NOK 5</g:sale_price>
+			<g:product_type>Belysning</g:product_type>
+			<g:google_product_category>4636</g:google_product_category>
+			<g:shipping_weight>0.022 kg</g:shipping_weight>
+			<g:shipping_length>7 cm</g:shipping_length>
+			<g:shipping_width>15.3 cm</g:shipping_width>
+			<g:shipping_height>13.3 cm</g:shipping_height>
+			<g:brand>GP Batteries</g:brand>
+			<g:gtin>4895149042495</g:gtin>
+			<g:mpn>43836497</g:mpn>
+			<g:identifier_exists>yes</g:identifier_exists>
+			<g:custom_label_0>ordinary</g:custom_label_0>
+		</item>
 	</channel>
 </rss>
